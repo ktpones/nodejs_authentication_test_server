@@ -1,0 +1,10 @@
+# node modules
+node_modules
+
+# mongodb database files
+mongo
+
+#env
+.env
+.env.development
+.env.production
